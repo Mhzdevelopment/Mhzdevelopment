@@ -1,0 +1,2 @@
+- 👋 Hi, I’m mhz or ntm and I develop in Java.
+- 👀 I’m interested in Spigot plugins and much more.
